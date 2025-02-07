@@ -1,0 +1,7 @@
+torch
+gym
+numpy
+pandas
+torchvision 
+torchaudio 
+torch-geometric
